@@ -1,0 +1,30 @@
+
+A:  git version
+  120  mkdir /tmp/git-demo
+  121  cd /tmp/git-demo
+  122  pwd
+  123  git init
+  124  ls -la
+  125  ls
+  126  ls -la
+  127  vim file.txt
+  128  cat file.txt 
+  129  git status
+  130  git add .
+  131  git status
+  132  git log
+  133  git commit -m "1st commit"
+  134  git status
+  135  git log
+  136  clear
+  137  git log
+  138  git log --oneline
+  139  cd ..
+  140  git
+  141  git status
+  142  cd git-demo/
+  143  ls -la
+  144  cd .git/
+  145  ls
+  146  cd ..
+  147  ls
