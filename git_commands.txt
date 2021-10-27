@@ -28,3 +28,7 @@ A:  git version
   145  ls
   146  cd ..
   147  ls
+
+====================
+// adding new test cases
+
